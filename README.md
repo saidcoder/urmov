@@ -1,5 +1,5 @@
-# BWAMov
-ini adalah project class build with angga bersama robby dianputra, kelas ini membahas mengenai cara mendevelopment aplikasi android mulai dari design
+# Ur Mov
+ini adalah aplikasi pemesanan tiket movie secara online, untuk memenuhi nilai final mata kuliah pemrograman mobile
 
 ## Fiture
 1. Splashscreen
@@ -11,4 +11,5 @@ ini adalah project class build with angga bersama robby dianputra, kelas ini mem
 1. Firebase
 
 ## Source
-Robby Dianputra
+Ridha Aulia
+Said Farid Hidayat
